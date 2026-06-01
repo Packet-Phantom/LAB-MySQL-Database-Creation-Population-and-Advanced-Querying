@@ -17,4 +17,4 @@
 
 <h2>Documentation:</h2>
 
-- [MYSQL_Lab_Document]()
+- [MYSQL_Lab_Document](https://github.com/Packet-Phantom/LAB-MySQL-Database-Creation-Population-and-Advanced-Querying/blob/main/MySQL_Lab_Document%20(1).pdf)
