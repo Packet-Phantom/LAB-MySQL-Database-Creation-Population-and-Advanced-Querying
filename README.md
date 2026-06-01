@@ -1,4 +1,4 @@
-# LAB-MySQL-Database-Creation-Population-and-Advanced-Querying
+# LAB: MySQL Database Creation, Population, and-Advanced-Querying
 
 <h2>Description</h2>
   <p>
